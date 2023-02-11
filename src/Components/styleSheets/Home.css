@@ -1,0 +1,15 @@
+.home_div{
+    background-color: rgba(2, 53, 16, 0.781);
+    height: 90%;
+    width: 100%;
+    padding: 5%;
+}
+.image-1{
+    height: 250px;
+}
+.home_div h1{
+    font-weight: 700;
+}
+.home_div h6{
+    font-weight: 500;
+}
